@@ -1,0 +1,13 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fontello/css/fontello.css);
+@import url(../vendor/fonts.css);
+
+@import url(../blocks/Button/button.css);
+@import url(../blocks/Section-title/section-title.css);
+
+@import url(../blocks/Home/home.css);
+@import url(../blocks/Header/header.css);
+@import url(../blocks/Main/main.css);
+@import url(../blocks/Preview/preview.css);
+@import url(../blocks/Products/products.css);
+@import url(../blocks/Features/features.css);

@@ -1,0 +1,22 @@
+.button {
+  cursor: pointer;
+  border: none;
+  box-sizing: border-box;
+  border-radius: 12px;
+  background: #0962E8;
+  padding: 15px 20px;
+  min-width: 160px;
+  transition: background 0.4s ease-in;
+}
+
+.button__text {
+  color: #fff;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.4px;
+}
+
+.button:hover {
+  background: #0748aa;
+}

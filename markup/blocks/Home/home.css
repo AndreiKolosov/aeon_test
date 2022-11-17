@@ -1,0 +1,9 @@
+.home {
+  background-color: #F5F5F5;
+  display: flex;
+  font-family: Euclid, Arial, Helvetica, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  margin: 0 auto;
+}
